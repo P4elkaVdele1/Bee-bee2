@@ -1,0 +1,234 @@
+
+body {
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Raleway', sans-serif;
+}
+
+ul {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+}
+/* Header */
+
+.header {}
+
+.header-name-iris{
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 1.1;
+        letter-spacing: -0.03em;
+        text-transform: uppercase;
+        color: rgba(77, 90, 229, 1);
+}
+
+.header-navigation {}
+
+.header-name {
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.1;
+    letter-spacing: -0.03em;
+    }
+
+.header-ul {
+}
+
+.header-menu-link {
+    color: #2E2F42;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: -0.02em;
+}
+
+.class-address {}
+
+.address-ul {}
+
+.address-item {}
+
+.address-link {
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: -0.02em;
+        color: rgba(67, 68, 85, 1);
+}
+
+
+/* Header finish */
+
+
+
+/*туловище сайта section-one*/
+.section-one {
+    background-color: rgba(46, 47, 66, 1);
+}
+
+.section-one-name {
+        font-weight: 600;
+        font-size: 56px;
+        line-height: 1.07;
+        letter-spacing: -0.02em;
+        color: #FFFFFF
+}
+
+.section-one-button {
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: -0.04em;
+        color: #FFFFFF;
+}
+
+.section-one-continuation {
+
+}
+
+.visually-hidden {
+        position: absolute;
+        width: 1px;
+        height: 1px;
+        margin: -1px;
+        border: 0;
+        padding: 0;
+            white-space: nowrap;
+            clip-path: inset(100%);
+            clip: rect(0 0 0 0);
+            overflow: hidden;
+}
+
+.section-one-ul {}
+
+.section-one-item {}
+
+.section-one-letters {
+        font-size: 20px;
+        font-weight: 500;
+        line-height: 1.2;
+        letter-spacing: -0.02em;
+        color: rgba(46, 47, 66, 1);
+}
+
+.section-one-comment {
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 1.6;
+        letter-spacing: -0.02em;
+        color: rgba(67, 68, 85, 1);
+}
+
+
+/*туловище сайта section-one finish*/
+
+/*Для Our-team*/
+
+.section-two {
+    background: rgba(244, 244, 253, 1);
+}
+
+.section-two-name {
+        font-size: 36px;
+        font-weight: 700;
+        line-height: 1.1;
+        letter-spacing: -0.02em;
+        text-transform: capitalize;
+        text-align: center;
+}
+
+.section-two-ul {}
+
+.section-two-item {}
+
+.picture-one {}
+
+.section-two-letters {
+        font-size: 20px;
+        font-weight: 500;
+        line-height: 1.2;
+        letter-spacing: -0.02em;
+}
+
+.section-two-comment {
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 1.5;
+        letter-spacing: -0.02em;
+}
+
+/*Для Our-team finish*/
+
+/*Для Our Portfolio*/
+
+.section-three {}
+
+.section-three-name {
+        font-size: 36px;
+        font-weight: 700;
+        line-height: 1.1;
+        letter-spacing: -0.02em;
+        text-transform: capitalize;
+        text-align: center;
+}
+
+.section-three-ul {}
+
+.section-three-item {}
+
+.picture-two {}
+
+.section-three-letters {
+        font-size: 20px;
+        font-weight: 500;
+        line-height: 1.2;
+        letter-spacing: -0.02em;
+        color: rgba(46, 47, 66, 1);
+}
+
+.section-three-comment {
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 1.5;
+        letter-spacing: -0.02em;
+}
+
+/*Для Our Portfolio finish*/
+
+/*Ноги сайта*/
+
+.footer-the-end{
+    background-color: rgba(46, 47, 66, 1);
+}
+
+.footer-name {
+            font-family: Raleway;
+            font-size: 18px;
+            font-weight: 700;
+            line-height: 1.1;
+            letter-spacing: 0.03em;
+            color: rgba(244, 244, 253, 1);
+}
+
+.footer-iric{
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 1.1;
+        letter-spacing: -0.03em;
+        text-transform: uppercase;
+        color: rgba(77, 90, 229, 1);
+}
+
+.footer-comment {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: -0.02em;
+    color: rgba(244, 244, 253, 1);
+}
+
+/*Ноги сайта finish*/
+
