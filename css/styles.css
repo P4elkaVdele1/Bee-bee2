@@ -31,8 +31,10 @@ a {
 .header-name {
     font-size: 18px;
     font-weight: 700;
-    line-height: 1.1;
-    letter-spacing: -0.03em;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
     }
 
 .header-ul {
@@ -54,7 +56,9 @@ a {
     color: #404bbf;
 }
 
-.class-address {}
+.class-address {
+        font-style: normal
+}
 
 .address-ul {}
 
