@@ -235,17 +235,18 @@ a {
             font-weight: 700;
             line-height: 1.17;
             letter-spacing: 0.03em;
+        text-transform: uppercase;
             color: #4d5ae5
-            text-transform: uppercase;
+            
 }
 
 .footer-iric{
-        font-weight: 700;
-        font-size: 18px;
-        line-height: 1.1;
-        letter-spacing: 0.03em;
-        text-transform: uppercase;
-        color: rgba(77, 90, 229, 1);
+                font-weight: 700;
+                font-size: 18px;
+                line-height: 1.1;
+                letter-spacing: 0.03em;
+                text-transform: uppercase;
+                color: rgba(244, 244, 253, 1);
 }
 
 .footer-comment {
