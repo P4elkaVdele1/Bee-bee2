@@ -159,13 +159,16 @@ a {
 .section-two-name {
         font-size: 36px;
         font-weight: 700;
-        line-height: 1.1;
+        line-height: 1.11;
         letter-spacing: 0.02em;
         text-transform: capitalize;
         text-align: center;
+        color: #2e2f42;
 }
 
-.section-two-ul {}
+.section-two-ul {
+        background-color: #FFFFFF
+}
 
 .section-two-item {}
 
@@ -174,8 +177,9 @@ a {
 .section-two-letters {
         font-size: 20px;
         font-weight: 500;
-        line-height: 1.5;
+        line-height: 1.2;
         letter-spacing: 0.02em;
+        color: #2e2f42;
 }
 
 .section-two-comment {
